@@ -1,5 +1,5 @@
 
-# Machine Learning Project — Technical Summary
+# Machine Learning Project - Technical Summary
 
 **Project:** Heavy Equipment Selling Price Prediction  
 **Author:** Renee Noronha  
