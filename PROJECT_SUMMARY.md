@@ -81,7 +81,3 @@ It requires understanding the problem, asking the right questions about the data
 
 It strengthened my interest in applying machine learning to real-world problems where data can support better decisions.
 
----
-
-**Renee Noronha**  
-BS Data Science and Applications | IIT Madras
